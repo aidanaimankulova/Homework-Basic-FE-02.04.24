@@ -1,0 +1,31 @@
+h1{
+    color:blue;
+    text-align: center;
+    width: 400px;
+    font-size: 20px;
+}
+
+p{
+    width: 400px;
+    text-align: justify;
+    line-height: 30px;
+    text-indent: 40px;
+
+}
+
+.changeColor{
+    color: red;
+    font-weight: bold;
+}
+
+h2{
+    color: blue;
+    width: 400px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.changeStyle{
+    color: blue;
+    font-style: italic;
+}
